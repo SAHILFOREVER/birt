@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.23" id="1">
+    <property name="createdBy">Eclipse BIRT Designer Version 4.2.1.v201209101448 Build &lt;4.2.1.v20120912-1721></property>
+    <property name="units">in</property>
+    <property name="theme">defaultTheme</property>
+    <themes>
+        <theme name="defaultTheme" id="4"/>
+    </themes>
+    <components>
+        <label name="NewLabel" id="5"/>
+        <table name="NewTable" id="6">
+            <column id="22"/>
+            <column id="23"/>
+            <column id="24"/>
+            <column id="25"/>
+            <header>
+                <row id="7">
+                    <cell id="8">
+                        <label name="NewLabel1" id="26"/>
+                    </cell>
+                    <cell id="9">
+                        <label name="NewLabel2" id="27"/>
+                    </cell>
+                    <cell id="10">
+                        <label name="NewLabel3" id="28"/>
+                    </cell>
+                    <cell id="11">
+                        <label name="NewLabel4" id="29"/>
+                    </cell>
+                </row>
+            </header>
+            <detail>
+                <row id="12">
+                    <cell id="13">
+                        <data name="NewData" id="30"/>
+                    </cell>
+                    <cell id="14">
+                        <data name="NewData1" id="31"/>
+                    </cell>
+                    <cell id="15">
+                        <data name="NewData2" id="32"/>
+                    </cell>
+                    <cell id="16">
+                        <data name="NewData3" id="33"/>
+                    </cell>
+                </row>
+            </detail>
+            <footer>
+                <row id="17">
+                    <cell id="18"/>
+                    <cell id="19"/>
+                    <cell id="20"/>
+                    <cell id="21"/>
+                </row>
+            </footer>
+        </table>
+    </components>
+    <page-setup>
+        <simple-master-page name="NewSimpleMasterPage" id="3"/>
+    </page-setup>
+</library>

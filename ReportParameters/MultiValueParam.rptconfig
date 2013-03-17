@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.23" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isdisplay__Products_50_0</property>
+            <property name="value">1903 Ford Model A</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__Products_50_1</property>
+            <property name="value">1904 Buick Runabout</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__Products_50_2</property>
+            <property name="value">1911 Ford Town Car</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__Products_50_3</property>
+            <property name="value">1912 Ford Model T Delivery Wagon</property>
+        </structure>
+        <structure>
+            <property name="name">Products_50_4</property>
+            <property name="value">1903 Ford Model A</property>
+        </structure>
+        <structure>
+            <property name="name">Products_50_5</property>
+            <property name="value">1904 Buick Runabout</property>
+        </structure>
+        <structure>
+            <property name="name">Products_50_6</property>
+            <property name="value">1911 Ford Town Car</property>
+        </structure>
+        <structure>
+            <property name="name">Products_50_7</property>
+            <property name="value">1912 Ford Model T Delivery Wagon</property>
+        </structure>
+        <structure>
+            <property name="name">Products_50_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">Products_50_expr_</property>
+            <property name="value">dataSetRow["PRODUCTNAME"]</property>
+        </structure>
+    </list-property>
+</report>
